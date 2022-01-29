@@ -1,0 +1,13 @@
+ body {
+     background-color: rgb(255, 190, 93);
+ }
+ 
+ h1 {
+     text-align: center;
+     color: blueviolet;
+ }
+
+ .recipe {
+     height: 250px;
+     width: 200px;
+ }
