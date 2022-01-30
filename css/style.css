@@ -8,23 +8,20 @@
      color: blueviolet;
  }
 
+ .content {
+     background-color: black;
+     display: flex;
+ }
+
  .recipe {
-     height: 350px;
-     width: 300px;
+     flex: 1;
      padding: 15px;
      margin: 15px;
-     text-align: center;
      background-color: azure;
+     text-align: center;
  }
 
- div img {
+ .recipe img {
      width: 300px;
      height: 300px;
- }
-
- .content ul{
-     display: flex;
-     list-style: none;
-     justify-content: center;
-     align-items: center;
  }
